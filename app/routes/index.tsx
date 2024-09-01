@@ -18,7 +18,7 @@ export default createRoute(async (c) => {
             </span>
           </h1>
           <h1 class="font-semibold text-3xl">
-            3 a software developer that builds <i>things</i>.
+            a software developer that builds <i>things</i>.
           </h1>
           <div class="flex py-2 gap-x-3">
             <a href="mailto:makors@muko.io">
